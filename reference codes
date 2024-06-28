@@ -1,3 +1,16 @@
 ALL REFERENCE CODE THAT AND CODE SAMPLES IF YOU WANT TO LEARN WILL BE FOUND THROUGH THE SDK.  
 
 Here is the link to the spefific code samples in the sdk: https://github.com/FIRST-Tech-Challenge/FtcRobotController/tree/master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples
+
+The code samples that are refered to the most are the following:
+
+BasicOpMode
+ConceptAprilTag
+ConceptAprilTagEasy
+ConceptScanServo
+ConceptTelemetry
+RobotAutoDriveByEncoder_Linear
+RobotAutoDriveByTime_Linear
+SensorColor
+SensorHuskyLens
+SensorMRRangeSensor

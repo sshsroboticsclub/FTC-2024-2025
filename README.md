@@ -6,7 +6,9 @@ To get Started first Install Andriod Studio On your device.  Watch this link to 
 video link https://www.youtube.com/watch?v=tqHGIsvgJ78
 
 Download Link for Java - https://www.oracle.com/java/ 
+
 Download Link for Android Studios - https://developer.android.com/studio
+
 Download for FTC SDK - https://github.com/FIRST-Tech-Challenge/FtcRobotController
 
 Once you have downloaded andriod studio, feel free to look around the rest of the github.  Remeber the sdk that you downloaded will have the necessary code samples which you should know to an extent.  
